@@ -1,0 +1,93 @@
+h1 {
+	color:#2f333b
+	font-weight:bold;
+	font-family: Arial;
+}
+.center{
+	height: 1000px;
+
+	width:940px;
+	margin:auto;
+}
+
+div{
+	border-radius: 2px;
+}
+
+#content{
+	background-color: #E0E4CC;
+	padding-left: 10px;
+	padding-right:10px;
+	width:940px;
+	margin:auto;
+	padding-top: 20px;
+}
+.fblogo{
+	width:60px;
+	height: 50px;
+}
+div a{
+	text-decoration: none;
+	font-weight: bold;
+	color:#47639E;
+}
+div a:hover {
+	color: black;
+}
+div li{
+	font-size : 20px;
+}
+ul li{
+	font-family: Arial;
+	color:gray;
+}
+.profile{
+	width: 940px;
+	height: 300px;
+	padding-top: 10px;
+}
+.btn-group>.btn:hover, .btn-group-vertical>.btn:hover, .btn-group>.btn:focus, .btn-group-vertical>.btn:focus, .btn-group>.btn:active, .btn-group-vertical>.btn:active, .btn-group>.btn.active, .btn-group-vertical>.btn.active {
+z-index: 2px;
+}
+.btn-group>.btn, .btn-group-vertical>.btn {
+position: relative;
+float: left;
+}
+.btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default.active, .open>.dropdown-toggle.btn-default {
+color: #333;
+background-color: #e6e6e6;
+border-color: #adadad;
+}
+.btn:hover, .btn:focus {
+color: #333;
+text-decoration: none;
+}
+.btn-default {
+color: white;
+background-color: #fff;
+border-color: #ccc;
+}
+.btn {
+display: inline-block;
+padding: 6px 20px;
+margin-bottom: 0;
+font-size: 14px;
+font-weight: none;
+font-family:Arial;
+line-height: 1.42857143;
+text-align: center;
+white-space: nowrap;
+vertical-align: middle;
+cursor: pointer;
+-webkit-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+user-select: none;
+background-image: none;
+border: 1px solid transparent;
+border-radius: 2px;
+background-color: #2f333b;
+}
+
+
+
